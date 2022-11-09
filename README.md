@@ -1,0 +1,1 @@
+A TypeScript/Node Bootstrap for me to use
